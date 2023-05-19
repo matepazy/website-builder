@@ -1,0 +1,15 @@
+D:\Website builder\obj\Debug\net7.0\Website builder.csproj.AssemblyReference.cache
+D:\Website builder\obj\Debug\net7.0\Website builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Website builder\obj\Debug\net7.0\Website builder.AssemblyInfoInputs.cache
+D:\Website builder\obj\Debug\net7.0\Website builder.AssemblyInfo.cs
+D:\Website builder\obj\Debug\net7.0\Website builder.csproj.CoreCompileInputs.cache
+D:\Website builder\bin\Debug\net7.0\Website builder.exe
+D:\Website builder\bin\Debug\net7.0\Website builder.deps.json
+D:\Website builder\bin\Debug\net7.0\Website builder.runtimeconfig.json
+D:\Website builder\bin\Debug\net7.0\Website builder.dll
+D:\Website builder\bin\Debug\net7.0\Website builder.pdb
+D:\Website builder\obj\Debug\net7.0\Website builder.dll
+D:\Website builder\obj\Debug\net7.0\refint\Website builder.dll
+D:\Website builder\obj\Debug\net7.0\Website builder.pdb
+D:\Website builder\obj\Debug\net7.0\Website builder.genruntimeconfig.cache
+D:\Website builder\obj\Debug\net7.0\ref\Website builder.dll
